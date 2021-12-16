@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Computador",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In fermentum, magna eu lacinia semper, sapien nisi dictum dolor, vel porttitor eros quam ut massa. Fusce ac risus pharetra, vehicula mauris eu, blandit urna. Vestibulum vel odio in neque tincidunt laoreet. Duis pretium vitae justo et scelerisque. Phasellus vitae ipsum et nunc rutrum hendrerit sed sit amet justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras eget tincidunt nulla. Suspendisse et accumsan odio, at dictum enim. Vivamus rutrum non quam quis euismod. Etiam at interdum felis, et porta mauris. Sed rutrum nunc iaculis erat vulputate, eget auctor purus hendrerit. Praesent vestibulum vehicula augue, id varius lorem mollis in. Nullam dictum viverra ipsum at aliquet. Integer at elementum erat. Praesent id porta dui. Cras a mattis diam.",
+        "image": "https://a-static.mlcdn.com.br/618x463/computador-com-monitor-led-intel-dual-core-2-58gb-4gb-500gb-easypc-smart/3greentechnology/22037/76e756957e878dce1b87f90db417014c.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bicicleta",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In fermentum, magna eu lacinia semper, sapien nisi dictum dolor, vel porttitor eros quam ut massa. Fusce ac risus pharetra, vehicula mauris eu, blandit urna. Vestibulum vel odio in neque tincidunt laoreet. Duis pretium vitae justo et scelerisque. Phasellus vitae ipsum et nunc rutrum hendrerit sed sit amet justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras eget tincidunt nulla. Suspendisse et accumsan odio, at dictum enim. Vivamus rutrum non quam quis euismod. Etiam at interdum felis, et porta mauris. Sed rutrum nunc iaculis erat vulputate, eget auctor purus hendrerit. Praesent vestibulum vehicula augue, id varius lorem mollis in. Nullam dictum viverra ipsum at aliquet. Integer at elementum erat. Praesent id porta dui. Cras a mattis diam.",
+        "image": "https://a-static.mlcdn.com.br/618x463/bicicleta-aro-29-mountain-bike-colli-bike-ultimate-freio-a-disco-21-marchas/magazineluiza/219066900/137182c8596c29ae465381144f26dc2e.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Celular",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In fermentum, magna eu lacinia semper, sapien nisi dictum dolor, vel porttitor eros quam ut massa. Fusce ac risus pharetra, vehicula mauris eu, blandit urna. Vestibulum vel odio in neque tincidunt laoreet. Duis pretium vitae justo et scelerisque. Phasellus vitae ipsum et nunc rutrum hendrerit sed sit amet justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras eget tincidunt nulla. Suspendisse et accumsan odio, at dictum enim. Vivamus rutrum non quam quis euismod. Etiam at interdum felis, et porta mauris. Sed rutrum nunc iaculis erat vulputate, eget auctor purus hendrerit. Praesent vestibulum vehicula augue, id varius lorem mollis in. Nullam dictum viverra ipsum at aliquet. Integer at elementum erat. Praesent id porta dui. Cras a mattis diam.",
+        "image": "https://a-static.mlcdn.com.br/618x463/celular-a31-128g-az-samsung/imperialeletromoveis/535ae4e8d04511eaa5c44201ac18501e/b3f001185a2f646038b460480a74b0b7.jpg"
+    }
+]
